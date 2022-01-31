@@ -1,0 +1,14 @@
+{
+  "name": "vitepress-d3-demo",
+  "packageManager": "yarn@3.1.1",
+  "scripts": {
+    "dev": "vitepress dev .",
+    "build": "vitepress build .",
+    "serve": "vitepress serve ."
+  },
+  "dependencies": {
+    "d3": "^7.3.0",
+    "vitepress": "^0.21.6",
+    "vue": "next"
+  }
+}
